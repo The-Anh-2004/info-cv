@@ -22,7 +22,7 @@ import argparse
 import torch.nn as nn
 import torch.backends.cudnn as cudnn
 from torch.autograd import Variable
-from timviec365_elasticsearch.search_tin_vieclam88 import copyStateDict
+#from timviec365_elasticsearch.search_tin_vieclam88 import copyStateDict
 import urllib
 from unidecode import unidecode
 import multiprocessing
@@ -211,10 +211,9 @@ def recognition():
         'error_code': 200,
         'message': message,
         'information': out})
-
+'''
 if __name__ == '__main__':
     det_box_model, ocr_model, craft, refine_net, args = load_model.get_model()
     app.run(debug= True, host='43.239.223.4', port=8101)
-
-
+'''
 
