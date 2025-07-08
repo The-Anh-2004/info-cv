@@ -216,7 +216,7 @@ if __name__ == '__main__':
     skew_obj = SkewDetect(
         options.input_file,
         options.batch_path,
-        options.output_file,
+        #options.output_file,
         options.sigma,
         options.display_output,
         options.num_peaks,

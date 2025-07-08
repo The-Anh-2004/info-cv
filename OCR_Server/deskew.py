@@ -38,7 +38,7 @@ class Deskew:
         
         return rotated
 
- 
+# if __name__ == '__main__':
 # import cv2 
 # import time
 # import load_model 
