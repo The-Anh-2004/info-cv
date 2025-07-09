@@ -214,6 +214,6 @@ def recognition():
 '''
 if __name__ == '__main__':
     det_box_model, ocr_model, craft, refine_net, args = load_model.get_model()
-    app.run(debug= True, host='43.239.223.4', port=8101)
+    app.run(debug= True, host='127.0.0.1', port=8101)
 '''
 
