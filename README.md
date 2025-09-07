@@ -1,4 +1,4 @@
-Download some weight files at: [Google Drive Link](https://drive.google.com/drive/u/0/folders/17h_G2FdLDkMB63hLYwx-h7JweEB8ot)  
+Download some weight files at: [Google Drive Link](https://drive.google.com/drive/u/0/folders/17h_G2FdLDKMB63hLYvwx-h7lJweEB8ot)  
 
 Install from `requirements.txt`  
 
